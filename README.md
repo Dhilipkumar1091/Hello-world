@@ -1,3 +1,3 @@
 # Hello-world
-This is my first try
+This is my first try , 
 Now i am little bit understand what is going on , so still ineed to undersatnd lot.
